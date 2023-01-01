@@ -1,0 +1,9 @@
+7
+Biology|3
+Chemistry|3
+Agriculture|3
+Physics|3
+Astronogy|3
+Plant|3
+Environmental|3
+

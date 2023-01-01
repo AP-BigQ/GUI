@@ -1,0 +1,9 @@
+7
+Java|3
+Computer Archetecture|3
+Data Structure|3
+Image Processing|3
+C Language|3
+Python|3
+Database|3
+
